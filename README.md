@@ -81,7 +81,7 @@ I'm a **3rd-year CS student** passionate about creating **real-world solutions**
 
 ## 🚀 Featured Projects
 
-### 📱 [VHELP - Campus Life Super App](https://github.com/Arhaan-P/VHELP-APP)
+### 📱 VHELP - Campus Life Super App
 **The all-in-one platform revolutionizing student life at VIT Chennai**
 
 🔥 **10+ Integrated Features:** Food ordering, study materials, lost & found, marketplace, hostel management, repair services & more  
