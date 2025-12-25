@@ -20,10 +20,11 @@
 class Arhaan:
     def __init__(self):
         self.location = "VIT Chennai 🇮🇳"
-        self.education = "B.Tech CSE | 3rd Year"
+        self.education = "B.Tech AI & Robotics | 3rd Year"
+        self.current_role = "SDE Intern @ BPO Integra"
         self.current_focus = ["Flutter Development", "Machine Learning", "DSA"]
         self.interests = ["Building impactful apps", "Competitive Programming", "AI/ML"]
-        self.hobbies = ["🏋️ Gym", "⚽ Football", "🏃 Running", "🚶 Walking"]
+        self.hobbies = ["🏋️ Gym", "⚽ Football", "🏃 Running", "🏀 Basketball"]
         
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together 🚀")
@@ -34,15 +35,33 @@ me.say_hi()
 
 I'm a **3rd-year CS student** passionate about creating **real-world solutions** through code. From building **full-stack mobile apps** with **10,000+ potential users** to crafting **ML models** that predict customer behavior, I love turning ideas into impact.
 
+Currently working as an **SDE Intern at BPO Integra**, and previously researched AI chatbot solutions at **IHCL (Taj Hotels)**.
+
+---
+
+## 💼 Experience
+
+**Software Development Engineer Intern** @ [BPO Integra Private Limited](https://bpointegra.com/)  
+*December 2024 - Present*  
+🔹 Building scalable software solutions for enterprise clients  
+🔹 Working with modern development frameworks and cloud technologies
+
+**AI Research Intern** @ [The Indian Hotels Company Limited (IHCL)](https://www.tajhotels.com/)  
+*May - June 2025*  
+🔹 Evaluated 5+ AI chatbot vendors across 15+ customer service use cases  
+🔹 Identified **35% cost optimization** through strategic feature mapping  
+🔹 Presented data-driven analysis contributing to enterprise-wide chatbot deployment decision
+
 ---
 
 ## 🏆 Achievements & Highlights
 
-🥈 **2nd Place @ HACK-N-DROID** - Built **Junk-Wunk** from scratch in 24 hours (Sustainability Marketplace)  
+🥈 **2nd Place @ HACK-N-DROID 2025** - Built **Junk-Wunk** from scratch in 24 hours (Sustainability Marketplace)  
 🚀 **VHELP** - Comprehensive campus life platform serving **15,000+ students** at VIT Chennai  
 🤖 **SIH 2025 Participant** - AI-powered solutions for real-world problems  
 📊 **Data Quest 2024** - ML-based bank customer prediction system  
-💡 **Multiple Hackathon Projects** - From NOC incident management to language learning apps  
+🏅 **CGPA 9.26** - VIT Chennai | Top performer in AI & Robotics program  
+🏆 **Sports Excellence** - National Squash ranking (57/250), multiple tournament wins
 
 ---
 
@@ -81,20 +100,21 @@ I'm a **3rd-year CS student** passionate about creating **real-world solutions**
 
 ## 🚀 Featured Projects
 
-### 📱 VHELP - Campus Life Super App
+### 📱 [VHELP - Campus Life Super App](https://github.com/Arhaan-P/VHELP-APP)
 **The all-in-one platform revolutionizing student life at VIT Chennai**
 
 🔥 **10+ Integrated Features:** Food ordering, study materials, lost & found, marketplace, hostel management, repair services & more  
 ⚡ **Tech Stack:** Flutter, Firebase, Supabase, Google Drive API  
-👥 **Impact:** Designed for **15,000+ students** with expected **4,500+ users**  
+👥 **Impact:** Onboarded **1,000+ users within first hour of launch**, designed for 15,000+ students  
 🎨 **Architecture:** Hybrid backend (Firebase + Supabase), Material Design 3, multi-provider state management  
+🔔 **Features:** Real-time notifications, Firebase authentication, personalized dashboards
 
 *"Transforming campus life through technology"*
 
 ---
 
 ### ♻️ [Junk-Wunk - Sustainability Marketplace](https://github.com/JUNK-WUNK/Junk_Wunk)
-**🥈 2nd Place @ HACK-N-DROID (24-hour hackathon)**
+**🥈 2nd Place @ HACK-N-DROID 2025 (24-hour hackathon)**
 
 🌍 Connecting rag pickers and sellers for efficient recycling & donations  
 ⚡ Built from **scratch in 24 hours** by Team GIGABOIS  
@@ -143,15 +163,15 @@ Predicting term deposit behavior using demographic & financial data for targeted
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arhaan-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arhaan-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhaan-P&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhaan-P&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arhaan-P&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arhaan-P&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak"/>
 
 </div>
 
@@ -160,6 +180,11 @@ Predicting term deposit behavior using demographic & financial data for targeted
 ## 🎯 What I'm Up To
 
 ```yaml
+current_work:
+  - SDE Intern @ BPO Integra Private Limited
+  - Building enterprise-grade software solutions
+  - Working with modern development stacks
+
 current_learning:
   - Advanced Flutter architectures (Clean Architecture, BLoC)
   - Deep Learning with PyTorch
@@ -172,10 +197,21 @@ current_projects:
   - Open source contributions
 
 looking_for:
-  - Internship opportunities in Full-Stack/Flutter Development
+  - Full-time opportunities in Full-Stack/Flutter Development
   - Collaborative projects in ML/AI
   - Hackathons & coding competitions
 ```
+
+---
+
+## 💡 Philosophy
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+I believe in **building solutions that matter**. Whether it's simplifying campus life for thousands of students or creating sustainable marketplaces, I focus on **impact over complexity**.
+
+When I'm not coding, you'll find me at the gym 🏋️, playing football ⚽, or planning my next hackathon victory 🏆.
+
 ---
 
 ## 🤝 Let's Connect!
@@ -200,4 +236,4 @@ I'm always excited to collaborate on interesting projects, discuss tech, or just
 
 **Made with 💙 and lots of ☕**
 
-</div><div align="center">
+</div>
