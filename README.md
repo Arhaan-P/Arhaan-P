@@ -113,6 +113,20 @@ Currently working as an **SDE Intern at BPO Integra**, and previously researched
 
 ---
 
+### [Gait-Based Deepfake Detection](https://github.com/Arhaan-P/DeepFake-Detection)  
+*PyTorch, MediaPipe, CNN+BiLSTM+Transformer*  
+**→ 94.95% AUC-ROC, first-of-its-kind gait-based deepfake detector**  
+Novel research across 1,056 videos and 70+ papers, setting new benchmarks in biometric security.
+
+---
+
+### [Malware Threat Intelligence](https://github.com/Arhaan-P/malware-research)  
+*PyTorch, XGBoost, CatBoost, LightGBM*  
+**→ 95.7% Micro-F1, 8 ML architectures, 20,000+ malware samples**  
+Rapid, automated malware detection at scale with robust AI pipelines.
+
+---
+
 ### ♻️ [Junk-Wunk - Sustainability Marketplace](https://github.com/JUNK-WUNK/Junk_Wunk)
 **🥈 2nd Place @ HACK-N-DROID 2025 (24-hour hackathon)**
 
@@ -122,16 +136,6 @@ Currently working as an **SDE Intern at BPO Integra**, and previously researched
 🤖 **Upcoming:** AI-powered image recognition for automatic item tagging  
 
 *"Bridging the gap between sustainability and technology"*
-
----
-
-### 🤖 [DATASET-24 NOC Management System](https://github.com/Arhaan-P/DATASET-24-Hackathon)
-**AI-powered incident documentation for Network Operations Centers**
-
-🧠 **Tech:** Streamlit, SQLite, Google Gemini AI  
-📊 Real-time system monitoring & automated reporting  
-💡 Intelligent insights for efficient network management  
-🔍 Collaborative tools for NOC teams  
 
 ---
 
@@ -146,16 +150,6 @@ Predicting term deposit behavior using demographic & financial data for targeted
 
 #### [YouTube Statistics Analysis](https://github.com/Arhaan-P/Global-YouTube-Statistics-Data-Analysis)
 📺 **Finlatics DS Project** - Analyzing global YouTube trends and engagement patterns
-
----
-
-### 💡 Other Notable Projects
-
-🤖 **[Promptly](https://github.com/Arhaan-P/Promptly)** - AI prompt optimization tool (SIH 2025)  
-🌐 **[Portfolio Website](https://github.com/Arhaan-P/Portfolio)** - Personal portfolio with TypeScript & modern CSS  
-🧠 **[Language Flashcards](https://github.com/Arhaan-P/language-flashcards)** - Interactive learning app  
-🤖 **[Robot Programming](https://github.com/Arhaan-P/Robot-Programming)** - ROS2 & robotics control systems  
-💻 **[LeetCode Solutions](https://github.com/Arhaan-P/LeetCode-Solutions)** - 100+ problems in C++, Python, Java, C  
 
 ---
 
